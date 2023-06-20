@@ -20,7 +20,7 @@ export default function footers() {
           <div>
           <div className='footerduoi'>
             @2018 All Rights Reserverd. This tempiate is made with
-            <span>Quintus Labs</span>
+            <span style={{color:"red"}}> Quintus Labs</span>
           </div>
           </div>
       </div>

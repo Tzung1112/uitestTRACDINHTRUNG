@@ -10,7 +10,7 @@ const CountdownComponent = () => {
             <img src="../images/deal_ofthe_week.png" alt="" />
             <div className='timeright'>
                 <div className='timeline'>
-                    <h2>Deal Of The Week</h2>
+                    <h1>Deal Of The Week</h1>
                     <div style={{ width: "100%",marginBottom:"50px"}}><p style={{ width: "80px", height: "2px", backgroundColor: "red",marginLeft:"160px"  }}></p></div>
                     <div className='timeall'>
                         <div className='divv'> <div className='bao'><span className='so'>{days}</span><br /> <span className='chu'>day</span></div> </div>
